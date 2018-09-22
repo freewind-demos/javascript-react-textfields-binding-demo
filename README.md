@@ -1,11 +1,11 @@
-JavaScript React Base Demo (Latest)
-===================================
+JavaScript React TextField Binding Demo
+=======================================
 
-Always update with latest versions and technologies.
+在React里，`<input type='text'>`不像angular或者vue那样可以绑定，只能手动用state来同步。
 
 ```
 npm install
-npm run dev
+npm run demo
 ```
 
-Then visit <http://localhost:8080/>.
+![demo](./images/demo.jpg)
